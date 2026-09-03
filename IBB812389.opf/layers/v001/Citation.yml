@@ -1,0 +1,71 @@
+id: 2d3fdc7b687c4888ad7c85bc661e3f03
+annotation_type: Citation
+revision: '00001'
+annotations:
+  7423a7e68d224056ba2913bd39129920:
+    span:
+      start: 731
+      end: 826
+    isverse: true
+  8cc5a92a1fc740b48108cb1d80d0aab6:
+    span:
+      start: 2266
+      end: 2389
+    isverse: true
+  bfeeb6c06d744c41aaba71bc77ce3928:
+    span:
+      start: 2968
+      end: 3109
+    isverse: true
+  b9cd7551bf4f4d32b27a627e46dad783:
+    span:
+      start: 4445
+      end: 4685
+    isverse: true
+  ca2f15824c18495191f643168ac0bdda:
+    span:
+      start: 4923
+      end: 5372
+    isverse: true
+  b75b582a9f494dc4bd99454ded2a6939:
+    span:
+      start: 7868
+      end: 7926
+    isverse: true
+  1398e2b66de643a09e9f452313bddd85:
+    span:
+      start: 38064
+      end: 38181
+    isverse: true
+  7821f93ca56641f5a8c343be62092043:
+    span:
+      start: 46202
+      end: 46351
+    isverse: true
+  40e47f23f109412d804ce4b4855e5b07:
+    span:
+      start: 46894
+      end: 47105
+    isverse: true
+  d9e4cd3c5ff2460ea47d30f85e3555f4:
+    span:
+      start: 47152
+      end: 47279
+    isverse: true
+  98ca92acf1e14388855151bc2c0b87be:
+    span:
+      start: 51598
+      end: 52200
+    isverse: true
+local_ids:
+  7423a7e68d224056ba2913bd39129920: 200000
+  8cc5a92a1fc740b48108cb1d80d0aab6: 200001
+  bfeeb6c06d744c41aaba71bc77ce3928: 200002
+  b9cd7551bf4f4d32b27a627e46dad783: 200003
+  ca2f15824c18495191f643168ac0bdda: 200004
+  b75b582a9f494dc4bd99454ded2a6939: 200005
+  1398e2b66de643a09e9f452313bddd85: 200006
+  7821f93ca56641f5a8c343be62092043: 200007
+  40e47f23f109412d804ce4b4855e5b07: 200008
+  d9e4cd3c5ff2460ea47d30f85e3555f4: 200009
+  98ca92acf1e14388855151bc2c0b87be: 200010

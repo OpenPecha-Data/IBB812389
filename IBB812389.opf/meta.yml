@@ -1,0 +1,23 @@
+id: IBB812389
+initial_creation_type: ebook
+source_metadata:
+  id: BOK-011
+  title: བླ་མའི་རྣལ་འབྱོར།
+  author: མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  sku: BOK-011
+  cover: BOK-011.jpg
+  volume: {}
+ebook_metadata:
+  title: བླ་མའི་རྣལ་འབྱོར།
+  authors: *id001
+  sku: BOK-011
+  cover: BOK-011.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
